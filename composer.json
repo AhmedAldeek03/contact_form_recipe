@@ -1,0 +1,10 @@
+{
+    "name": "drupal/contact_form_recipe",
+    "description": "Provides a \"Contact us\" webform at /contact-us that emails each message to the site email address.",
+    "type": "drupal-recipe",
+    "license": "GPL-2.0-or-later",
+    "require": {
+        "drupal/core": "^11",
+        "drupal/webform": "^6.2"
+    }
+}

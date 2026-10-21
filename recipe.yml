@@ -1,0 +1,7 @@
+name: 'Contact form'
+description: 'Provides a "Contact us" webform at /contact-us that emails each message to the site email address.'
+type: 'Form'
+install:
+  - webform
+config:
+  strict: false
